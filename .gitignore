@@ -1,0 +1,4 @@
+# Node and tooling (to add build steps later)
+node_modules/
+dist/
+.DS_Store
